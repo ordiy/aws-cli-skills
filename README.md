@@ -43,7 +43,7 @@ This library follows the **Watadot Studio** philosophy:
 - **Free**: Liberation through high-level automation.
 
 ## ⚠️ Requirements
-- AWS CLI v2
+- AWS CLI v2 — [Official Installation Guide](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 - Valid AWS Credentials
 - Python 3.x (for advanced logic)
 
